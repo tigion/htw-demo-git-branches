@@ -6,7 +6,7 @@
 
 == Feature 1
 
-<insert_feature_here>
+- Änderung 1
 
 == Feature 2
 
