@@ -14,3 +14,4 @@
 == Feature 2
 
 - Änderung 1
+- Änderung 2
