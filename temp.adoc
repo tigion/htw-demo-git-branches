@@ -13,4 +13,4 @@
 
 == Feature 2
 
-<insert_feature_here>
+- Änderung 1
