@@ -7,6 +7,7 @@
 == Feature 1
 
 - Änderung 1
+- Änderung 2
 
 == Feature 2
 
